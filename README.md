@@ -8,3 +8,4 @@ You will gain exponentially more score points and charge for your shots the furt
 
 Sadly I got pretty sick during development so I wasn't able to make the game as big as I wanted to.
 The game was originally supposed to have actual graphics, animation and sound but since I couldn't spend as much time on it as I wanted to it doesn't. I still wanted to submit the game because I did spend a lot of time coming up with it and it's kind of fun, actually.
+
